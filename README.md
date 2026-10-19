@@ -25,8 +25,13 @@ This project explores health indicators across Sub-Saharan Africa from 2000 to 2
 ## Dataset
 The project uses a health indicators dataset covering the period from 2000 to 2024, with a focus on Sub-Saharan Africa.
 
-## Dashboard
-Dashboard screenshots will be added to this repository.
+## Dashboard Preview
+
+![Health Indicators Dashboard](health-indicators-dashboard.png)
+
+## Project Focus
+
+Analysis of health indicators across Sub-Saharan Africa from 2000 to 2024 using Excel PivotTables and dashboard visualizations.
 
 ## Project Goal
 To transform health indicator data into understandable insights by identifying patterns and changes over time using Excel.
